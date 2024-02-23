@@ -1,4 +1,4 @@
-const BASE_URL = "https://users-crud.academlo.tech/";
+const BASE_URL = "https://users-crud-mh8k.onrender.com";
 
 const EMPTY_FORM_VALUES = {
   first_name: "",
